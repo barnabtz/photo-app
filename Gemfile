@@ -21,10 +21,13 @@ gem 'jbuilder', '~> 2.7'
 gem 'bcrypt', '~> 3.1.7'
 gem 'better_errors'
 gem 'devise'
+# gem 'twitter-bootstrap-rails'
+gem 'bootstrap-sass'
 gem 'devise-bootstrap-views'
 gem 'bootstrap'
 gem 'jquery-rails'
 gem 'popper_js'
+# gem 'font-awesome-rails'
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
